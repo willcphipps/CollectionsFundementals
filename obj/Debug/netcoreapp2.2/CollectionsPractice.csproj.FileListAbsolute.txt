@@ -1,0 +1,11 @@
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/CollectionsPractice/bin/Debug/netcoreapp2.2/CollectionsPractice.deps.json
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/CollectionsPractice/bin/Debug/netcoreapp2.2/CollectionsPractice.runtimeconfig.json
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/CollectionsPractice/bin/Debug/netcoreapp2.2/CollectionsPractice.runtimeconfig.dev.json
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/CollectionsPractice/bin/Debug/netcoreapp2.2/CollectionsPractice.dll
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/CollectionsPractice/bin/Debug/netcoreapp2.2/CollectionsPractice.pdb
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/CollectionsPractice/obj/Debug/netcoreapp2.2/CollectionsPractice.csprojAssemblyReference.cache
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/CollectionsPractice/obj/Debug/netcoreapp2.2/CollectionsPractice.csproj.CoreCompileInputs.cache
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/CollectionsPractice/obj/Debug/netcoreapp2.2/CollectionsPractice.AssemblyInfoInputs.cache
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/CollectionsPractice/obj/Debug/netcoreapp2.2/CollectionsPractice.AssemblyInfo.cs
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/CollectionsPractice/obj/Debug/netcoreapp2.2/CollectionsPractice.dll
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/CollectionsPractice/obj/Debug/netcoreapp2.2/CollectionsPractice.pdb
